@@ -2,7 +2,7 @@
 
 Esse é um programa proposto pela plataforma Digital Inovation One! 
 
-## Reccriando a página inicial do Instagram
+## Recriando a página inicial do Instagram
 
 ### Os requisitos são:
 
